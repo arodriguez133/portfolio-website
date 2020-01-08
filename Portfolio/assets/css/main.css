@@ -1786,13 +1786,14 @@ input, select, textarea {
 
 	header.major h2 {
 		color: #4acaa8;
-		font-size: 3.5em;
+		font-size: 3.0em;
+		margin: 0 0 65px;
 	}
 
 		header.major h2 + p {
 			color: #777;
 			font-size: 1.75em;
-			font-weight: 700;
+			font-weight: 400;
 			margin-top: -0.75em;
 		}
 
